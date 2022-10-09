@@ -57,10 +57,7 @@ public class Account {
     }
 
     public void withdraw(double amt) {
-        if (amt <= balance)
             balance -= amt;
-        else
-            System.out.println("Can't withdraw.insufficient Balance");
     }
 
     public void deposit(double amt) {
