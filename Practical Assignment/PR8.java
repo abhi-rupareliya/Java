@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-public class FileCount {
+public class PR8 {
     public static void main(String[] args) {
         String path = "C:\\AAA Shortcut\\Java programs\\Practical Assignment\\" + args[0];
         System.out.println(path);
