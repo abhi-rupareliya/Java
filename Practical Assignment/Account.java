@@ -13,7 +13,7 @@
              • A method named withdraw that withdraws a specified amount from the 
              • A method named getMonthlyInterest() that returns the monthly interest.
              • A method named deposit that deposits a specified amount to the account. 
- */
+*/
 
 import java.util.Date;
 
